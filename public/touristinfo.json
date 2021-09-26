@@ -1,0 +1,137 @@
+[
+    {
+        "placename": "Cox's Bazar",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cox%27s_Bazar_boats.jpg/600px-Cox%27s_Bazar_boats.jpg",
+        "duration": "3 days",
+        "attraction": "world's longest sea beach",
+        "cost": 10000
+    },
+    {
+        "placename": "St. Martin's Island",
+        "division": "Chittagong",
+        "district": "Cox's Bazar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Saint_Martin%27s_Island.jpg/330px-Saint_Martin%27s_Island.jpg",
+        "duration": "2 days",
+        "attraction": "Dead corals",
+        "cost": 12000
+    },
+    {
+        "placename": "Sajek Valley",
+        "division": "Chittagong",
+        "district": "Rangamati",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sajek_Valley_2.jpg/330px-Sajek_Valley_2.jpg",
+        "duration": "2 days",
+        "attraction": "Queen of Hills",
+        "cost": 8000
+    },
+    {
+        "placename": "Nilgiri",
+        "division": "Chittagong",
+        "district": "Bandarban",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandarban_Nilgiri.jpg/330px-Bandarban_Nilgiri.jpg",
+        "duration": "1 days",
+        "attraction": "Hills",
+        "cost": 5000
+    },
+    {
+        "placename": "Kaptai Lake",
+        "division": "Chittagong",
+        "district": "Rangamati",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kapatailake.jpg/330px-Kapatailake.jpg",
+        "duration": "1 days",
+        "attraction": "Lake",
+        "cost": 5000
+    },
+    {
+        "placename": "Nijhum Dwip",
+        "division": "Chittagong",
+        "district": "Noakhali",
+        "image": "http://travelfactorybd.com/wp-content/uploads/2017/07/22719283459_2d449ae683_b.jpg",
+        "duration": "2 days",
+        "attraction": "Golden Island",
+        "cost": 5000
+    },
+    {
+        "placename": "Shubhalang waterfall",
+        "division": "Chittagong",
+        "district": "Rangamati",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Shuvolong_Waterfall.JPG/330px-Shuvolong_Waterfall.JPG",
+        "duration": "1 days",
+        "attraction": "Waterfall",
+        "cost": 5000
+    },
+    {
+        "placename": "Bichnakandi",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%E0%A5%A4%E0%A5%A4_Beautiful_Bangladesh_SYleht_%E0%A5%A4%E0%A5%A4.jpg/330px-%E0%A5%A4%E0%A5%A4_Beautiful_Bangladesh_SYleht_%E0%A5%A4%E0%A5%A4.jpg",
+        "duration": "1 days",
+        "attraction": "River",
+        "cost": 5000
+    },
+    {
+        "placename": "Jaflong",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boat_in_river%2C_Bangladesh.jpg/330px-Boat_in_river%2C_Bangladesh.jpg",
+        "duration": "2 days",
+        "attraction": "stone",
+        "cost": 8000
+    },
+    {
+        "placename": "Ratargul Swamp Forest",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ratargul_Swamp_Forest%2C_Sylhet..jpg/450px-Ratargul_Swamp_Forest%2C_Sylhet..jpg",
+        "duration": "2 days",
+        "attraction": "Freshwater swamp forest",
+        "cost": 8000
+    },
+    {
+        "placename": "Somapura Mahavihara",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Somapura_Mahavihara%2C_Bangladesh.jpg/300px-Somapura_Mahavihara%2C_Bangladesh.jpg",
+        "duration": "1 days",
+        "attraction": "Buddhist viharas",
+        "cost": 3000
+    },
+    {
+        "placename": "Mahasthangarh",
+        "division": "Rajshahi",
+        "district": "Bogra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BD_Mahasthangarh1_without_people.jpg/330px-BD_Mahasthangarh1_without_people.jpg",
+        "duration": "1 days",
+        "attraction": " Pundranagara",
+        "cost": 3000
+    },
+    {
+        "placename": "Kuakata Beach",
+        "division": "Barisal ",
+        "district": "Patuakhali",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kuakata_beach.jpg/330px-Kuakata_beach.jpg",
+        "duration": "2 days",
+        "attraction": "Sea beach",
+        "cost": 8000
+    },
+    {
+        "placename": "Sundarbans",
+        "division": "Khulna",
+        "district": "Khulna, Bagerhat, satkhira",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sundarban_Tiger.jpg/300px-Sundarban_Tiger.jpg",
+        "duration": "3 days",
+        "attraction": "World largest mangrove forest",
+        "cost": 12000
+    },
+    {
+        "placename": "Sixty Dome Mosque",
+        "division": "Khulna",
+        "district": "Bagerhat",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sixty_Dome_Mosque%2CBagerhat.jpg/330px-Sixty_Dome_Mosque%2CBagerhat.jpg",
+        "duration": "1 days",
+        "attraction": "Mosque",
+        "cost": 3000
+    }
+]
