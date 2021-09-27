@@ -1,11 +1,26 @@
 .place-card{
-    border:2px solid green;
+    background-color: rgb(209, 241, 143);
+    border:3px solid green;
     border-radius:10px;
 }
 .place-card img{
     width:100%;
     height:150px;
     border-radius: 5px 5px 0px 0px;
+}
+.place-card button{
+    background-color:lime;
+    padding: 5px;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.place-card button:hover{
+    border: 3.5px solid blueviolet;
+    cursor: pointer;
 }
 .info{
     margin-left: 30px;

@@ -1,0 +1,10 @@
+.places-info{
+    background-color:yellow;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.places-info h4{
+    margin-block: 5px;
+}

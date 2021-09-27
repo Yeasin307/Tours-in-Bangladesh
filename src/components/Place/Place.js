@@ -1,8 +1,9 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBus } from '@fortawesome/free-solid-svg-icons';
 import './Place.css';
 
 const Place = (props) => {
-    console.log(props.place);
     const { placename, district, division, image, attraction, duration, cost } = props.place;
     return (
         <div className="place-card">
@@ -13,6 +14,7 @@ const Place = (props) => {
             <h4 className="info">Attraction: {attraction}</h4>
             <h4 className="info">Duration: {duration}</h4>
             <h2 className="info">Cost: {cost}</h2>
+            <button className="info" onClick={() => props.handleSelectForGoing(props.place)}>Select for Going <FontAwesomeIcon icon={faBus} /></button>
         </div>
     );
 };
