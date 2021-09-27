@@ -7,15 +7,19 @@ import './Places.css';
 const Places = () => {
     const [places, setPlaces] = useState([]);
     const [destinations, setDestionations] = useState([]);
+
+
     useEffect(() => {
         fetch('./touristinfo.json')
             .then(res => res.json())
             .then(data => setPlaces(data));
     }, [])
+
     const handleSelectForGoing = place => {
         const newDestinations = [...destinations, place];
         setDestionations(newDestinations);
     }
+
     return (
         <div className="tourist-container">
             <div className="place">
@@ -40,21 +44,3 @@ const Places = () => {
 };
 
 export default Places;
-
-/* const handleSelectForGoing = place => {
-    let newDestinations;
-    if (destinations.length === 0) {
-        newDestinations = [...destinations, place];
-        // setDestionations(newDestinations);
-    }
-    else {
-        for (const destination of destinations) {
-            if (destination.placename !== place.placename) {
-                newDestinations = [...destinations, place];
-                // const newDestinations = [...destinations, place];
-                // setDestionations(newDestinations);
-            }
-        }
-    }
-    setDestionations(newDestinations);
-} */
