@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    background-color:limegreen;
+    font-weight:bold;
+    margin: 20px 0px;
+    padding: 1px;
+    border-radius: 5px;
+}
+.header-info{
+    margin-block: 10px;
+}
